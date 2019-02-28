@@ -1,0 +1,403 @@
+/* <!-- Latest compiled and minified CSS --> */
+
+
+h1 {
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    padding: 30px;
+    float: left;
+    width: 300px; 
+    height: 50px;
+  }
+
+  body {
+    width: 960px;
+  }
+  
+     .demo {
+        list-style-type: none;
+        margin: 0;
+        padding: 30px;
+        float: right;
+        display: inline;
+        color:#cccccc
+        background-color: #ffffff;
+        }
+
+        .para {
+          font-size: 17px;
+          font-family:Arial, Helvetica, sans-serif;
+        }
+
+li{
+  display: inline;
+  padding: 10px 20px;
+  background-color: #ffffff;
+}
+      .list {
+      font-family: Arial, Helvetica, sans-serif;
+      color: #cccccc;
+      text-decoration: none; 79, 79);
+      font-size: 16px;
+      text-align: center;
+      display: inline;
+       }
+
+    #main-bio {
+    background:#ffffff;
+    border-top: 50px;
+    border-top-color:#ffffff;
+    }
+
+   div {
+    clear: left;
+    border: 10px;
+    background-color: #ffffff;
+  }
+
+    .aboutme {
+      width: 960px;
+      float: left;
+     background-color:#ffffff;
+      padding:20px;
+    }
+
+  hr{ 
+    height: 3px;
+    color: #cccccc;
+    background-color:#cccccc;
+    border: none;
+    clear: left;
+  }
+
+    .photo {
+    width: 200px;
+    padding-right: 20px;
+    float: left;
+    }
+
+    .photo2 {
+      width: 200px;
+      padding-left: 10px;
+      padding-right: 10px;
+      padding-top: 20px;
+      padding-bottom: 50px;
+      }
+
+
+      .container {
+        position: relative;
+      }
+
+      .text-block-1 {
+        position: absolute;
+        top: 460px;
+        left: 35px;
+        width: 125px;
+        text-align: center;
+        background-color: #4aaaa5;
+        color: #ffffff;
+        padding-left: 20px;
+        padding-right: 20px;
+      }
+
+      .text-block-2 {
+        position: absolute;
+        top: 460px;
+        left: 260px;
+        width: 125px;
+        text-align: center;
+        background-color: #4aaaa5;
+        color: #ffffff;
+        padding-left: 20px;
+        padding-right: 20px;
+      }
+
+      .text-block-3 {
+        position: absolute;
+        top: 460px;
+        left: 485px;
+        width: 125px;
+        text-align: center;
+        background-color: #4aaaa5;
+        color: #ffffff;
+        padding-left: 20px;
+        padding-right: 20px;
+      }
+
+      .text-block-3 {
+        position: absolute;
+        top: 460px;
+        left: 480px;
+        width: 125px;
+        text-align: center;
+        background-color: #4aaaa5;
+        color: #ffffff;
+        padding-left: 20px;
+        padding-right: 20px;
+      }
+      .text-block-4 {
+        position: absolute;
+        top: 460px;
+        left: 705px;
+        width: 125px;
+        text-align: center;
+        background-color: #4aaaa5;
+        color: #ffffff;
+        padding-left: 20px;
+        padding-right: 20px;
+      }
+
+      .text-block-5 {
+        position: absolute;
+        top: 730px;
+        left: 35px;
+        width: 125px;
+        text-align: center;
+        background-color: #4aaaa5;
+        color: #ffffff;
+        padding-left: 20px;
+        padding-right: 20px;
+      }
+
+      .text-block-6 {
+        position: absolute;
+        top: 730px;
+        left: 260px;
+        width: 125px;
+        text-align: center;
+        background-color: #4aaaa5;
+        color: #ffffff;
+        padding-left: 20px;
+        padding-right: 20px;
+      }
+
+      .text-block-7 {
+        position: absolute;
+        top: 730px;
+        left: 485px;
+        width: 125px;
+        text-align: center;
+        background-color: #4aaaa5;
+        color: #ffffff;
+        padding-left: 20px;
+        padding-right: 20px;
+      }
+      .text-block-8 {
+        position: absolute;
+        top: 730px;
+        left: 705px;
+        width: 125px;
+        text-align: center;
+        background-color: #4aaaa5;
+        color: #ffffff;
+        padding-left: 20px;
+        padding-right: 20px;
+      }
+
+  h2 {
+    float: left;
+    color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+   
+  h3 {
+    color: #666666;
+    font-family: Arial, Helvetica, sans-serif;
+    clear: both;
+  }
+
+      footer {
+        text-align: center;
+        color: #cccccc;
+        background-color: #666666;
+        width: 960px;
+        height: 40px;
+        border-top: 6px solid #4aaaa5;;
+      }
+
+      .name2 {
+        width: 951px;
+        height: 36px;
+        border: 2px solid #666666;
+        position: relative;
+        left: -40px;
+        top: 0px;
+        font-family: Arial, Helvetica, sans-serif;
+        padding-top: 10px;
+        padding-left: 5px;
+            }
+            
+      .email {
+        width: 951px;
+        height: 36px;
+        border: 2px solid #666666;
+        position: relative;
+        left: -40px;
+        top: 0px;
+        font-family: Arial, Helvetica, sans-serif;
+        padding-top: 10px;
+        padding-left: 5px;
+            }
+
+        .message {
+              width: 951px;
+              height: 200px;
+              border: 2px solid #666666;
+              position: relative;
+              left: -40px;
+              top: 0px;
+              padding-top: 10px;
+              padding-left: 5px;
+                  }
+
+                  .submit {
+                    width: 100px;
+                    height: 35px;
+                    background-color:  #4aaaa5;
+                    font-size: 16px;
+                    color: #ffffff;
+                    font-family: Arial, Helvetica, sans-serif;
+                    text-align: center;
+                    position: relative;
+                    left: -40px;
+                    top: 0px;
+                    padding-top: 10px;
+
+                  }
+
+                  @media screen and (max-width:640px) {
+
+                    #container1 {
+                      width: 100%;
+                      margin: 0px auto;
+                    }
+
+                    h1 {
+                      font-size: 40px;
+                      text-align: center;
+                      padding: 0px auto;
+                      width: 100%; 
+                    }
+
+                    .demo {
+          
+                      padding: 30px;
+                      float: left;
+                      width: 100%;
+                      text-align: center;
+                      }
+
+                      li{
+                        display: inline;
+                        padding: 10px 20px;
+                         }
+
+                      .photo {
+                        width: 100%;
+                        padding-right: 20px;
+                        float: left;
+                        }
+                  }
+
+                  
+                  @media screen and (max-width:980px) {
+
+                    #container1 {
+                      width: 100%;
+                      margin: 0px auto;
+                    }
+
+                    h1 {
+                      font-size: 40px;
+                      text-align: center;
+                      padding: 0px auto;
+                      width: 100%; 
+                    }
+
+                    .demo {
+          
+                      padding: 30px;
+                      float: left;
+                      width: 100%;
+                      text-align: center;
+                      }
+
+                      li{
+                        display: inline;
+                        padding: 10px 20px;
+                         }
+
+                      .photo {
+                        width: 100%;
+                        padding-right: 20px;
+                        float: left;
+                        }
+                  @media screen and (max-width:768px) {
+
+                    #container1 {
+                      width: 100%;
+                      margin: 0px auto;
+                    }
+
+                    h1 {
+                      font-size: 40px;
+                      text-align: center;
+                      padding: 0px auto;
+                      width: 100%; 
+                    }
+
+                    .demo {
+          
+                      padding: 30px;
+                      float: left;
+                      width: 100%;
+                      text-align: center;
+                      }
+
+                      li{
+                        display: inline;
+                        padding: 10px 20px;
+                         }
+
+                      .photo {
+                        width: 100%;
+                        padding-right: 20px;
+                        float: left;
+                        }
+                  }
+                  @media screen and (max-width:640px) {
+
+                    #container1 {
+                      width: 100%;
+                      margin: 0px auto;
+                    }
+
+                    h1 {
+                      font-size: 40px;
+                      text-align: center;
+                      padding: 0px auto;
+                      width: 100%; 
+                    }
+
+                    .demo {
+          
+                      padding: 30px;
+                      float: left;
+                      width: 100%;
+                      text-align: center;
+                      }
+
+                      li{
+                        display: inline;
+                        padding: 10px 20px;
+                         }
+
+                      .photo {
+                        width: 100%;
+                        padding-right: 20px;
+                        float: left;
+                        }
+                  }
